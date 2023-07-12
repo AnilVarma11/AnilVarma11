@@ -1,8 +1,8 @@
-- 👋 Hi there! I am Anil Varma, and I love building seamless web experiences.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Stack web Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+  
 
 <!---
 AnilVarma11/AnilVarma11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
