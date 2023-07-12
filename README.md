@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+https://github-readme-streak-stats.herokuapp.com/?user=Anilvarma11
 
 <!---
 AnilVarma11/AnilVarma11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
