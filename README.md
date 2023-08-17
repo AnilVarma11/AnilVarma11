@@ -5,10 +5,7 @@
 ### :man_technologist: About Me :
 I am a Frontend web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I am a student, contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I redesign top websites' UI and solve algorithm problems.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Varma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anil-varma-374a98245/)
 
